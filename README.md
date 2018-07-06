@@ -1,5 +1,7 @@
 # Predicting Slow Judgments
 
+[![Build Status](https://travis-ci.com/oughtinc/psj.svg?branch=master)](https://travis-ci.com/oughtinc/psj)
+
 ## Motivation
 
 Imagine you read this statement on a blog:
