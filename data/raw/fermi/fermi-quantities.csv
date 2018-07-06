@@ -1,0 +1,1219 @@
+quantity_id,Quantity,Value,Difficulty,Category
+0,number of US states,50.0,1.0,geography
+1,length of American football field in yards,100.0,1.0,stadiums
+2,number of Olympic rings,5.0,1.0,olympic rings
+3,number of continents,7.0,1.0,geography
+4,number of hours in a week,168.0,1.0,time calculation
+5,number of planets in the solar system,8.0,1.0,solar system
+6,number of players (both teams) on the court in basketball,10.0,1.0,basketball
+7,number of letters in the English alphabet,26.0,1.0,english alphabet
+8,drinking age in the US,21.0,1.0,us laws
+9,number of seconds in a minute,60.0,1.0,time
+10,number of degrees in a right angle,90.0,1.0,geometry
+11,number of legs on a spider,8.0,1.0,zoology
+12,number of oceans on Earth,5.0,2.0,geography
+13,boiling point of water in degrees Fahrenheit,212.0,2.0,chemistry
+14,average weight of US adult male in pounds,196.0,2.0,us demographics
+15,number of days in a fortnight,14.0,2.0,time
+16,percent of Earth's surface covered in water,71.0,2.0,geography
+17,total World Cup goals scored by Lionel Messi,10.0,2.0,football
+18,length of marathon in miles,26.22,3.0,track and field
+19,height of Eiffel tower in feet,984.0,3.0,building
+20,weight of $100 worth of quarters in pounds ,5.0,3.0,weight
+21,age of oldest known living animal,184.0,3.0,zoology
+22,hottest temperature recorded on Earth in degrees Celsius,54.0,3.0,temperature
+23,number of calories in a glass of whole milk,148.0,3.0,chemistry
+24,world land speed record in miles per hour,763.0,3.0,motorsport
+25,number of Wimbledons won by Roger Federer,8.0,3.0,tennis
+26,maximum points scored in an NBA game by one player,100.0,3.0,basketball
+27,number of books in the New Testament,27.0,3.0,literature
+28,number of cookies in a standard sized Oreo package,45.0,3.0,food
+29,half the capacity of the largest US college football stadium,54950.0,3.0,stadiums
+30,diameter of red blood cell in microns,7.0,4.0,biology
+31,distance to Proxima Centauri (closest star) in light-years,4.0,4.0,astronomy
+32,time for light to travel from Sun to Earth in seconds,500.0,4.0,astronomy
+33,number of entries in the Oxford English Dictionary,171000.0,4.0,languages
+34,temperature of Sun's surface in degrees Kelvin,5778.0,4.0,temperature
+35,number of ants in largest known colony,306000000.0,5.0,zoology
+36,surface area of the moon in square miles,14600000.0,5.0,astronomy
+37,mass of a cubic meter of air in grams,1293.0,5.0,chemistry
+38,total career minutes played by Michael Jordan,48485.0,5.0,basketball
+39,biggest margin of victory ever in a Triple Crown Race in seconds,31.0,4.0,track and field
+40,height in inches of shortest Major League Baseball player ,66.0,4.0,height
+41,repulsion of two protons in the nucleus in pounds,13.0,5.0,chemistry
+42,distance from New York City to London in miles,3459.0,3.0,economics
+43,duration of Hundred Years' War in years,116.0,2.0,history
+44,GDP of Afghanistan in USD,20000000000.0,5.0,gdp
+45,GDP of Nepal in USD,22000000000.0,5.0,gdp
+46,GDP of Estonia in USD,24000000000.0,5.0,gdp
+47,GDP of Costa Rica in USD,58000000000.0,5.0,gdp
+48,GDP of Luxembourg in USD,60000000000.0,5.0,gdp
+49,GDP of Greece in USD,195000000000.0,5.0,gdp
+50,GDP of Israel in USD,319000000000.0,5.0,gdp
+51,GDP of United Arab Emirates in USD,349000000000.0,5.0,gdp
+52,GDP of Norway in USD,371000000000.0,5.0,gdp
+53,GDP of Austria in USD,387000000000.0,5.0,gdp
+54,GDP of Belgium in USD,467000000000.0,5.0,gdp
+55,GDP of Poland in USD,470000000000.0,5.0,gdp
+56,GDP of Sweden in USD,512000000000.0,5.0,gdp
+57,GDP of Argentina in USD,546000000000.0,5.0,gdp
+58,GDP of Saudi Arabia in USD,647000000000.0,5.0,gdp
+59,GDP of Switzerland in USD,660000000000.0,5.0,gdp
+60,GDP of Netherlands in USD,771000000000.0,5.0,gdp
+61,GDP of Turkey in USD,858000000000.0,5.0,gdp
+62,GDP of Mexico in USD,1000000000000.0,5.0,rich country gdp
+63,GDP of Australia in USD,1205000000000.0,5.0,rich country gdp
+64,GDP of Spain in USD,1233000000000.0,5.0,rich country gdp
+65,GDP of Russian Federation in USD,1284000000000.0,5.0,rich country gdp
+66,GDP of South Korea in USD,1412000000000.0,5.0,rich country gdp
+67,GDP of Sub-Saharan Africa in USD,1499000000000.0,5.0,rich country gdp
+68,GDP of Canada in USD,1530000000000.0,5.0,rich country gdp
+69,GDP of Brazil in USD,1797000000000.0,5.0,rich country gdp
+70,GDP of Italy in USD,1850000000000.0,5.0,rich country gdp
+71,GDP of France in USD,2466000000000.0,5.0,rich country gdp
+72,GDP of United Kingdom in USD,2619000000000.0,5.0,rich country gdp
+73,GDP of Germany in USD,3467000000000.0,5.0,rich country gdp
+74,GDP of Japan in USD,5000000000000.0,5.0,rich country gdp
+75,GDP of China in USD,11000000000000.0,5.0,rich country gdp
+76,GDP of European Union of USD,16000000000000.0,5.0,rich country gdp
+77,GDP of United States in USD,19000000000000.0,5.0,rich country gdp
+78,length of Genghis Khan's life in years,65.0,3.0,history
+79,number of countries that border Turkey,8.0,4.0,geography
+80,number of days in non-leap year,365.0,1.0,time
+81,number of US colonies,13.0,2.0,geography
+82,population of Hong Kong,7347000.0,3.0,population
+83,population of New Zealand,4000000.0,3.0,population
+84,population of Qatar,2570000.0,3.0,population
+85,salary of US president in USD per year,400000.0,2.0,salary
+86,surface area of Lake Zurich in square miles,7.29,4.0,geography
+87,US national debt in USD,20000000000000.0,2.0,national debt
+88,weight of Blue whale in kg,136000.0,5.0,animal weight
+89,weight of African elephant in kg,4800.0,4.0,animal weight
+90,weight of Killer whale in kg,3988.0,4.0,animal weight
+91,weight of Hippopotamus in kg,3750.0,3.0,animal weight
+92,weight of White rhinoceros in kg,2175.0,3.0,animal weight
+93,weight of Water buffalo in kg,725.0,3.0,animal weight
+94,weight of Polar bear in kg,475.0,3.0,animal weight
+95,weight of Southern sea lion in kg,208.0,3.0,animal weight
+96,weight of Wild boar in kg,180.0,3.0,animal weight
+97,weight of Lion in kg,175.0,3.0,animal weight
+98,weight of Gorilla in kg,140.0,3.0,animal weight
+99,weight of Tiger in kg,120.0,3.0,animal weight
+100,weight of Giant panda in kg,118.0,3.0,animal weight
+101,weight of Striped dolphin in kg,113.0,3.0,animal weight
+102,weight of Jaguar in kg,81.0,3.0,animal weight
+103,longest hitting streak by Joe DiMaggio,56.0,3.0,baseball
+104,most triple-doubles in one NBA regular season,42.0,2.0,basketball
+105,most passing yards by one player in an NFL game,554.0,3.0,nfl
+106,career high in points for Kobe Bryant,81.0,2.0,basketball
+107,jersey number worn by Michael Jordan,23.0,1.0,basketball
+108,number of games in longest set at Wimbledon,138.0,4.0,tennis
+109,longest consecutive NFL regular season losing streak in games,26.0,2.0,nfl
+110,world record women's marathon time in minutes,135.0,3.0,race
+111,most consecutive women's Wimbledon titles,6.0,2.0,tennis
+112,most consecutive NCAA football wins,47.0,3.0,nfl
+113,longest play in NFL history in yards,109.0,2.0,nfl
+114,most red cards in a soccer match,36.0,3.0,football
+115,most wins in one regular season by an NBA team,73.0,2.0,basketball
+116,most points in one NHL season,215.0,3.0,hockey
+117,most rebounds by one player in an NBA game,55.0,3.0,basketball
+118,minutes in a regulation NBA game,48.0,2.0,basketball
+119,minutes in a regulation soccer match,90.0,2.0,football
+120,minutes in a regulation NFL game,60.0,2.0,nfl
+121,minutes in one half of an NCAA basketball game,20.0,2.0,basketball
+122,minutes in a regulation NCAA basketball game,40.0,2.0,basketball
+123,minutes in one quarter of an NCAA football game,15.0,2.0,nfl
+124,minutes in a regulation NCAA football game,60.0,2.0,nfl
+125,most consecutive wins in NBA season by one team,33.0,2.0,basketball
+126,career three-point attempts by Michael Jordan,1778.0,5.0,basketball
+127,career two-point attempts by Michael Jordan,22759.0,5.0,basketball
+128,career free throws made by Michael Jordan,7327.0,4.0,basketball
+129,career points scored by Michael Jordan,32292.0,4.0,basketball
+130,career assists by Michael Jordan,5633.0,4.0,basketball
+131,career rebounds by Michael Jordan,6672.0,4.0,basketball
+132,career steals by Michael Jordan,2514.0,4.0,basketball
+133,career blocks by Michael Jordan,893.0,4.0,basketball
+134,career turnovers by Michael Jordan,2924.0,4.0,basketball
+135,career personal fouls by Michael Jordan,2783.0,4.0,basketball
+136,career points scored by Kobe Bryant,33643.0,4.0,basketball
+137,career assists by Kobe Bryant,6306.0,4.0,basketball
+138,career rebounds by Kobe Bryant,7047.0,4.0,basketball
+139,career steals by Kobe Bryant,1944.0,4.0,basketball
+140,career blocks by Kobe Bryant,640.0,4.0,basketball
+141,career turnovers by Kobe Bryant,4010.0,4.0,basketball
+142,career personal fouls by Kobe Bryant,3353.0,4.0,basketball
+143,career points scored by Magic Johnson,17707.0,4.0,basketball
+144,career assists by Magic Johnson,10141.0,4.0,basketball
+145,career rebounds by Magic Johnson,6559.0,4.0,basketball
+146,career steals by Magic Johnson,1724.0,4.0,basketball
+147,career blocks by Magic Johnson,374.0,4.0,basketball
+148,career turnovers by Magic Johnson,3506.0,4.0,basketball
+149,career personal fouls by Magic Johnson,2050.0,4.0,basketball
+150,career points scored by Kevin Garnett,26071.0,4.0,basketball
+151,career assists by Kevin Garnett,5445.0,4.0,basketball
+152,career rebounds by Kevin Garnett,14662.0,4.0,basketball
+153,number of teams in the NBA,30.0,2.0,basketball
+154,number of teams in the NFL,32.0,2.0,nfl
+155,number of teams in the MLB,30.0,2.0,baseball
+156,number of teams in the NHL,31.0,2.0,hockey
+157,number of teams in La Liga,20.0,2.0,football
+158,number of teams in the English Premier League,20.0,2.0,football
+159,number of teams in Serie A,20.0,2.0,football
+160,career passing yards by Peyton Manning,72000.0,3.0,nfl
+161,career passing yards by Brett Favre,72000.0,3.0,nfl
+162,career passing yards by Dan Marino,61000.0,3.0,nfl
+163,career passing yards by John Elway,51000.0,3.0,nfl
+164,career passing yards by Warren Moon,49000.0,3.0,nfl
+165,career passing yards by Fran Tarkenton,47000.0,3.0,nfl
+166,career passing yards by Vinny Testaverde,46000.0,3.0,nfl
+167,career passing yards by Drew Bledsoe,45000.0,3.0,nfl
+168,career passing yards by Dan Fouts,43000.0,3.0,nfl
+169,career passing yards by Kerry Collins,41000.0,3.0,nfl
+170,career passing yards by Joe Montana,41000.0,3.0,nfl
+171,career passing yards by Johnny Unitas,40000.0,3.0,nfl
+172,career passing yards by Boomer Esiason,38000.0,3.0,nfl
+173,career passing yards by Donovan McNabb,37000.0,3.0,nfl
+174,career passing yards by Matt Hasselbeck,37000.0,3.0,nfl
+175,career passing yards by Jim Kelly,35000.0,3.0,nfl
+176,career passing yards by Jim Everett,35000.0,3.0,nfl
+177,career passing yards by Tony Romo,34000.0,3.0,nfl
+178,career passing yards by Phil Simms,33000.0,3.0,nfl
+179,career passing yards by Steve Young,33000.0,3.0,nfl
+180,career passing yards by Troy Aikman,33000.0,3.0,nfl
+181,career passing yards by Ken Anderson,33000.0,3.0,nfl
+182,career passing yards by Jay Cutler,32000.0,3.0,nfl
+183,career passing yards by Kurt Warner,32000.0,3.0,nfl
+184,career passing yards by Mark Brunell,32000.0,3.0,nfl
+185,career passing yards by Steve McNair,31000.0,3.0,nfl
+186,career rushing touchdowns by Emmitt Smith,164.0,3.0,touchdowns
+187,career rushing touchdowns by LaDainian Tomlinson,145.0,3.0,touchdowns
+188,career rushing touchdowns by Marcus Allen,123.0,3.0,touchdowns
+189,career rushing touchdowns by Walter Payton,110.0,3.0,touchdowns
+190,career rushing touchdowns by Jim Brown,106.0,3.0,touchdowns
+191,career rushing touchdowns by Marshall Faulk,100.0,3.0,touchdowns
+192,career rushing touchdowns by Barry Sanders,99.0,3.0,touchdowns
+193,career rushing touchdowns by Jerome Bettis,91.0,3.0,touchdowns
+194,career receiving touchdowns by Jerry Rice,197.0,3.0,touchdowns
+195,career receiving touchdowns by Randy Moss,156.0,3.0,touchdowns
+196,career receiving touchdowns by Terrell Owens,153.0,3.0,touchdowns
+197,career receiving touchdowns by Cris Carter,130.0,3.0,touchdowns
+198,career receiving touchdowns by Marvin Harrison,128.0,3.0,touchdowns
+199,career receiving touchdowns by Tony Gonzalez,111.0,3.0,touchdowns
+200,career receiving touchdowns by Tim Brown,100.0,3.0,touchdowns
+201,career points scored by Kareem Abdul-Jabbar,38387.0,4.0,basketball
+202,career points scored by Karl Malone,36928.0,4.0,basketball
+203,career points scored by Wilt Chamberlain,31419.0,4.0,basketball
+204,career points scored by Moses Malone,27409.0,4.0,basketball
+205,career points scored by Elvin Hayes,27313.0,4.0,basketball
+206,career rebounds by Wilt Chamberlain,23924.0,4.0,basketball
+207,career rebounds by Bill Russell,21620.0,4.0,basketball
+208,career rebounds by Kareem Abdul-Jabbar,17440.0,4.0,basketball
+209,career rebounds by Moses Malone,16212.0,4.0,basketball
+210,career rebounds by Karl Malone,14968.0,4.0,basketball
+211,career assists by Jason Kidd,12091.0,4.0,basketball
+212,career assists by Steve Nash,10335.0,4.0,basketball
+213,career assists by Oscar Robertson,9887.0,4.0,basketball
+214,career assists by Isiah Thomas,9061.0,4.0,basketball
+215,career assists by Gary Payton,8966.0,4.0,basketball
+216,career assists by Bob Cousy,6955.0,4.0,basketball
+217,career steals by Jason Kidd,2684.0,4.0,basketball
+218,career steals by Gary Payton,2445.0,4.0,basketball
+219,career steals by Scottie Pippen,2307.0,4.0,basketball
+220,career steals by Clyde Drexler,2207.0,4.0,basketball
+221,career steals by Hakeem Olajuwon,2162.0,4.0,basketball
+222,atomic number of Hydrogen,1.0,2.0,chemistry
+223,atomic number of Helium,2.0,2.0,chemistry
+224,atomic number of Lithium,3.0,2.0,chemistry
+225,atomic number of Carbon,6.0,2.0,chemistry
+226,atomic number of Nitrogen,7.0,2.0,chemistry
+227,atomic number of Oxygen,8.0,2.0,chemistry
+228,atomic number of Fluorine,9.0,2.0,chemistry
+229,atomic number of Sodium,11.0,3.0,chemistry
+230,atomic number of Aluminum,13.0,3.0,chemistry
+231,atomic number of Silicon,14.0,3.0,chemistry
+232,atomic number of Sulfur,16.0,3.0,chemistry
+233,atomic number of Potassium,19.0,3.0,chemistry
+234,atomic number of Calcium,20.0,3.0,chemistry
+235,atomic number of Titanium,22.0,3.0,chemistry
+236,atomic number of Iron,26.0,3.0,chemistry
+237,atomic number of Nickel,28.0,3.0,chemistry
+238,atomic number of Zinc,30.0,3.0,chemistry
+239,atomic number of Silver,47.0,3.0,chemistry
+240,atomic number of Platinum,78.0,3.0,chemistry
+241,atomic number of Gold,79.0,3.0,chemistry
+242,atomic number of Lead,82.0,3.0,chemistry
+243,atomic number of Uranium,92.0,3.0,chemistry
+244,number of letters on a typical typed page of text,2500.0,3.0,typography
+245,cost to build the Burj Khalifa in USD,1500000000.0,3.0,architecture
+246,cost of a B-2 bomber in USD,2500000000.0,4.0,aerospace
+247,net worth of Carlos Slim in USD,68000000000.0,3.0,wealth
+248,cost of International Space Station in USD,100000000000.0,4.0,space engineering
+249,total value of all world financial assets in USD,140000000000000.0,4.0,wealth
+250,height of Mt Everest in feet,29029.0,4.0,mountain
+251,height of K2 in feet,28251.0,4.0,mountain
+252,height of Mt McKinley in feet,20310.0,3.0,mountain
+253,height of Mt Logan in feet,19551.0,4.0,mountain
+254,height of Mt Kilimanjaro in feet,19341.0,4.0,mountain
+255,gestation time in days of American bison,217.0,3.0,gestation time
+256,gestation time in days of Camel,390.0,3.0,gestation time
+257,gestation time in days of Cat,64.0,3.0,gestation time
+258,gestation time in days of Chimpanzee,240.0,3.0,gestation time
+259,gestation time in days of Chipmunk,31.0,3.0,gestation time
+260,gestation time in days of Cow,286.0,3.0,gestation time
+261,gestation time in days of Deer,201.0,3.0,gestation time
+262,gestation time in days of Dog,61.0,3.0,gestation time
+263,gestation time in days of Asian Elephant,617.0,3.0,gestation time
+264,gestation time in days of Fox,52.0,3.0,gestation time
+265,gestation time in days of Giraffe,430.0,3.0,gestation time
+266,gestation time in days of Goat,150.0,3.0,gestation time
+267,gestation time in days of Gorilla,257.0,3.0,gestation time
+268,gestation time in days of Guinea pig,65.0,3.0,gestation time
+269,gestation time in days of Hamster,20.0,3.0,gestation time
+270,gestation time in days of Hippopotamus,237.0,3.0,gestation time
+271,gestation time in days of Horse,336.0,3.0,gestation time
+272,gestation time in days of Leopard,93.0,3.0,gestation time
+273,gestation time in days of Lion,108.0,3.0,gestation time
+274,gestation time in days of Llama,330.0,3.0,gestation time
+275,gestation time in days of Moose,245.0,3.0,gestation time
+276,gestation time in days of Mouse,21.0,3.0,gestation time
+277,gestation time in days of Otter,73.0,3.0,gestation time
+278,gestation time in days of Pig,113.0,3.0,gestation time
+279,gestation time in days of Porcupine,210.0,3.0,gestation time
+280,gestation time in days of Rabbit,31.0,3.0,gestation time
+281,gestation time in days of Rat,22.0,3.0,gestation time
+282,gestation time in days of Squirrel,35.0,3.0,gestation time
+283,gestation time in days of Tiger,109.0,3.0,gestation time
+284,gestation time in days of Sperm Whale,535.0,3.0,gestation time
+285,gestation time in days of Wolf,64.0,3.0,gestation time
+286,gestation time in days of Wombat,27.0,3.0,gestation time
+287,gestation time in days of Zebra,375.0,3.0,gestation time
+288,Population of Beijing,21000000.0,2.0,population
+289,Population of New Delhi,17000000.0,2.0,population
+290,Population of Tokyo,13000000.0,2.0,population
+291,Population of Manila,13000000.0,2.0,population
+292,Population of Moscow,12000000.0,2.0,population
+293,Population of Cairo,10000000.0,2.0,population
+294,Population of Jakarta,10000000.0,2.0,population
+295,Population of Seoul,10000000.0,2.0,population
+296,Population of Dhaka,9000000.0,2.0,population
+297,Population of Mexico City,9000000.0,2.0,population
+298,Population of Tehran,9000000.0,2.0,population
+299,Population of London,9000000.0,2.0,population
+300,Population of Lima,8000000.0,2.0,population
+301,Population of Bangkok,8000000.0,2.0,population
+302,Population of Bogota,8000000.0,2.0,population
+303,Population of Hanoi,8000000.0,2.0,population
+304,Population of Hong Kong,7000000.0,2.0,population
+305,Population of Baghdad,7000000.0,2.0,population
+306,Population of Singapore,5000000.0,2.0,population
+307,Population of Ankara,5000000.0,2.0,population
+308,Population of Santiago,5000000.0,2.0,population
+309,Population of Riyadh,5000000.0,2.0,population
+310,Population of Berlin,4000000.0,2.0,population
+311,Population of Damascus,4000000.0,2.0,population
+312,Population of Algiers,3000000.0,2.0,population
+313,Population of Madrid,3000000.0,2.0,population
+314,Population of Pyongyang,3000000.0,2.0,population
+315,Population of Nairobi,3000000.0,2.0,population
+316,Population of Athens,3000000.0,2.0,population
+317,Population of Buenos Aires,3000000.0,2.0,population
+318,Population of Rome,3000000.0,2.0,population
+319,Population of Taipei,3000000.0,2.0,population
+320,Population of Vienna,2000000.0,2.0,population
+321,Population of Budapest,2000000.0,2.0,population
+322,Population of Warsaw,2000000.0,2.0,population
+323,Population of Beirut,2000000.0,2.0,population
+324,Population of Copenhagen,1000000.0,2.0,population
+325,Population of San Salvador,1000000.0,2.0,population
+326,Number of moons of Mercury,0.0,3.0,moons
+327,Number of moons of Venus,0.0,3.0,moons
+328,Number of moons of Earth,1.0,3.0,moons
+329,Number of moons of Mars,0.0,3.0,moons
+330,Number of moons of Jupiter,2.0,3.0,moons
+331,Number of moons of Saturn,67.0,3.0,moons
+332,Number of moons of Uranus,27.0,3.0,moons
+333,Number of moons of Neptune,14.0,3.0,moons
+334,Number of moons of Pluto,5.0,3.0,moons
+335,mass of 1ml of water in g,1.0,3.0,chemistry
+336,mass of 10ml of water in g,10.0,3.0,chemistry
+337,mass of 333ml of water in g,333.0,3.0,chemistry
+338,mass of 1000 ml of water in kg,1.0,3.0,chemistry
+339,mass of 1000 ml of gasoline in g,680.0,3.0,chemistry
+340,mass of 1000 ml of ethanol in g,790.0,3.0,chemistry
+341,age at death of longest-lived Norway rat in years,4.0,2.0,zoology
+342,age at death of longest-lived dog in years,29.0,2.0,zoology
+343,age at death of longest-lived cat in years,38.0,2.0,zoology
+344,age at death of longest-lived polar bear in years,42.0,2.0,zoology
+345,age at death of longest-lived horse in years,62.0,2.0,zoology
+346,age at death of longest-lived Asian elephant in years,86.0,2.0,zoology
+347,driving distance in miles between London and Paris,300.0,3.0,geographical distance
+348,driving distance in miles between London and Brussels,226.0,3.0,geographical distance
+349,driving distance in miles between London and Amsterdam,331.0,3.0,geographical distance
+350,driving distance in miles between London and Barcelona,930.0,3.0,geographical distance
+351,driving distance in miles between London and Frankfurt,475.0,3.0,geographical distance
+352,driving distance in miles between London and Berlin,680.0,3.0,geographical distance
+353,driving distance in miles between London and Cologne,365.0,3.0,geographical distance
+354,driving distance in miles between London and Vienna,914.0,3.0,geographical distance
+355,driving distance in miles between London and Milan,815.0,3.0,geographical distance
+356,driving distance in miles between London and Rome,1160.0,3.0,geographical distance
+357,maximum speed of Peregrine falcon in miles per hour,242.0,2.0,animal speed
+358,maximum speed of Golden eagle in miles per hour,200.0,2.0,animal speed
+359,maximum speed of Cheetah in miles per hour,68.0,2.0,animal speed
+360,maximum speed of Swordfish in miles per hour,60.0,2.0,animal speed
+361,maximum speed of Lion in miles per hour,50.0,2.0,animal speed
+362,maximum speed of Hare in miles per hour,50.0,2.0,animal speed
+363,maximum speed of Greyhound in miles per hour,46.0,2.0,animal speed
+364,maximum speed of Jackrabbit in miles per hour,45.0,2.0,animal speed
+365,maximum speed of African wild dog in miles per hour,44.0,2.0,animal speed
+366,maximum speed of Horse in miles per hour,44.0,2.0,animal speed
+367,maximum speed of Common dolphin in miles per hour,40.0,2.0,animal speed
+368,maximum speed of Zebra in miles per hour,40.0,2.0,animal speed
+369,maximum speed of Tiger in miles per hour,40.0,2.0,animal speed
+370,maximum speed of Hyena in miles per hour,40.0,2.0,animal speed
+371,career home runs by Barry Bonds,762.0,3.0,baseball
+372,career home runs by Hank Aaron,755.0,3.0,baseball
+373,career home runs by Babe Ruth,714.0,3.0,baseball
+374,career home runs by Alex Rodriguez,696.0,3.0,baseball
+375,career home runs by Willie Mays,660.0,3.0,baseball
+376,"career home runs by Ken Griffey, Jr.",630.0,3.0,baseball
+377,career home runs by Jim Thome,612.0,3.0,baseball
+378,career home runs by Sammy Sosa,609.0,3.0,baseball
+379,career home runs by Frank Robinson,586.0,3.0,baseball
+380,career home runs by Mark McGwire,583.0,3.0,baseball
+381,career grand slam titles won by Pete Sampras,14.0,2.0,tennis
+382,career grand slam titles won by Rod Laver,11.0,2.0,tennis
+383,career grand slam titles won by Bjorn Borg,11.0,2.0,tennis
+384,career grand slam titles won by Andre Agassi,8.0,2.0,tennis
+385,world record in the mile by Hicham El Guerrouj in seconds,223.0,3.0,track and field
+386,world record in high jump by Javier Sotomayor in centimeters,245.0,3.0,track and field
+387,world record in long jump by Mike Powell rounded to nearest meter,9.0,2.0,track and field
+388,world record in decathlon by Ashton Eaton in points,9045.0,4.0,track and field
+389,world record in heptathlon by Jackie Joyner-Kersee in points,7291.0,4.0,track and field
+390,world record in decathlon by Austra Skujyte in points,8358.0,4.0,track and field
+391,world record in shot put by Randy Barnes rounded to nearest meter,23.0,3.0,track and field
+392,world record in hammer throw by Yuriy Sedykh rounded to nearest meter,87.0,4.0,track and field
+393,world record in javelin throw by Jan Zelezny rounded to nearest meter,98.0,4.0,track and field
+394,world record in 20 km walk by Yusuke Suzuki rounded to nearest minute,76.0,3.0,track and field
+395,world record in 4x100 m relay by Jamaica rounded to nearest second,37.0,2.0,track and field
+396,world record in 4x200 m relay by Jamaica rounded to nearest second,79.0,2.0,track and field
+397,world record in 4x400 m relay by USA rounded to nearest second,174.0,3.0,track and field
+398,world record in 4x800 m relay by Kenya rounded to nearest second,422.0,3.0,track and field
+399,world record in 4x1500 m relay by Kenya rounded to nearest minute,14.0,3.0,track and field
+400,world record in road relay by Kenya rounded to nearest minute,117.0,5.0,track and field
+401,world record in 400 m by Marita Koch rounded to nearest second,48.0,2.0,track and field
+402,world record in mile by Svetlana Masterkova rounded to nearest second,253.0,4.0,track and field
+403,world record in 5000 m by Tirushnesh Dibaba rounded to nearest minute,14.0,3.0,track and field
+404,world record in marathon by Paula Radcliffe rounded to nearest minute,135.0,3.0,track and field
+405,world record in 4x100 m relay by USA rounded to nearest second,41.0,2.0,track and field
+406,world record in 4x200 m relay by USA rounded to nearest second,87.0,3.0,track and field
+407,world record in 4x400 m relay by Russia rounded to nearest second,195.0,4.0,track and field
+408,world record in 4x800 m relay by Russia rounded to nearest second,470.0,4.0,track and field
+409,world record in 4x1500 m relay by Kenya rounded to nearest minute,17.0,3.0,track and field
+410,world record in road relay by China rounded to nearest minute,131.0,5.0,track and field
+411,height of Justin Bieber in inches,67.0,2.0,height
+412,height of Zayn Malik in inches,69.0,2.0,height
+413,height of Kim Jong Un in inches,69.0,2.0,height
+414,height of Harry Styles in inches,70.0,2.0,height
+415,height of Kanye West in inches,68.0,2.0,height
+416,height of Rob Riches in inches,69.0,2.0,height
+417,height of Barack Obama in inches,73.0,2.0,height
+418,height of Brad Pitt in inches,71.0,2.0,height
+419,height of Taylor Swift in inches,70.0,2.0,height
+420,height of Adele in inches,68.0,2.0,height
+421,height of Ben Affleck in inches,74.0,2.0,height
+422,height of Christina Aguilera in inches,62.0,2.0,height
+423,height of Muhammad Ali in inches,75.0,2.0,height
+424,height of Woody Allen in inches,65.0,2.0,height
+425,height of Jennifer Aniston in inches,65.0,2.0,height
+426,height of David Beckham in inches,71.0,2.0,height
+427,height of Jeff Bezos in inches,68.0,2.0,height
+428,height of Usain Bolt in inches,77.0,2.0,height
+429,height of Bono in inches,66.0,2.0,height
+430,height of Hillary Rodham Clinton in inches,66.0,2.0,height
+431,height of George Clooney in inches,71.0,2.0,height
+432,height of Stephen Curry in inches,74.0,2.0,height
+433,height of Miley Cyrus in inches,65.0,2.0,height
+434,hours plus minutes on 12-Hour digital clock at half past one,31.0,1.0,clock
+435,hours plus minutes on 12-Hour digital clock at quarter past one,16.0,1.0,clock
+436,hours plus minutes on 12-Hour digital clock at quarter till one,57.0,1.0,clock
+437,hours plus minutes on 12-Hour digital clock at half past two,32.0,1.0,clock
+438,hours plus minutes on 12-Hour digital clock at quarter till two,46.0,1.0,clock
+439,hours plus minutes on 12-Hour digital clock at five past one,6.0,1.0,clock
+440,hours plus minutes on 12-Hour digital clock at five till two,56.0,1.0,clock
+441,hours plus minutes on 12-Hour digital clock at ten till one,62.0,1.0,clock
+442,hours plus minutes on 12-Hour digital clock at half past four,34.0,1.0,clock
+443,hours plus minutes on 12-Hour digital clock at quarter past four,19.0,1.0,clock
+444,hours plus minutes on 12-Hour digital clock at quarter till four,48.0,1.0,clock
+445,hours plus minutes on 12-Hour digital clock at five past three,8.0,1.0,clock
+446,hours minus minutes on 12-Hour digital clock at five past five,0.0,1.0,clock
+447,hours minus minutes on 12-Hour digital clock at five past six,1.0,1.0,clock
+448,hours minus minutes on 12-Hour digital clock at ten past eleven,1.0,1.0,clock
+449,minutes minus hours on 12-Hour digital clock at ten till eleven,40.0,1.0,clock
+450,minutes minus hours on 12-Hour digital clock at half past two,28.0,1.0,clock
+451,minutes minus hours on 12-Hour digital clock at quarter past two,13.0,1.0,clock
+452,minutes minus hours on 12-Hour digital clock at quarter till two,44.0,1.0,clock
+453,smaller angle between hour and minute hands at 1:00 in degrees,30.0,3.0,clock
+454,smaller angle between hour and minute hands at 1:22 in degrees,102.0,3.0,clock
+455,smaller angle between hour and minute hands at 2:04 in degrees,36.0,3.0,clock
+456,smaller angle between hour and minute hands at 2:10 in degrees,0.0,3.0,clock
+457,smaller angle between hour and minute hands at 2:42 in degrees,168.0,3.0,clock
+458,smaller angle between hour and minute hands at 3:00 in degrees,90.0,3.0,clock
+459,smaller angle between hour and minute hands at 3:02 in degrees,78.0,3.0,clock
+460,smaller angle between hour and minute hands at 3:12 in degrees,18.0,3.0,clock
+461,smaller angle between hour and minute hands at 3:20 in degrees,30.0,3.0,clock
+462,smaller angle between hour and minute hands at 3:22 in degrees,42.0,3.0,clock
+463,smaller angle between hour and minute hands at 3:30 in degrees,90.0,3.0,clock
+464,smaller angle between hour and minute hands at 3:48 in degrees,162.0,3.0,clock
+465,smaller angle between hour and minute hands at 3:58 in degrees,102.0,3.0,clock
+466,smaller angle between hour and minute hands at 4:52 in degrees,168.0,3.0,clock
+467,smaller angle between hour and minute hands at 4:58 in degrees,132.0,3.0,clock
+468,smaller angle between hour and minute hands at 5:00 in degrees,150.0,3.0,clock
+469,smaller angle between hour and minute hands at 5:26 in degrees,6.0,3.0,clock
+470,smaller angle between hour and minute hands at 5:42 in degrees,102.0,3.0,clock
+471,smaller angle between hour and minute hands at 6:00 in degrees,180.0,3.0,clock
+472,smaller angle between hour and minute hands at 6:08 in degrees,132.0,3.0,clock
+473,smaller angle between hour and minute hands at 6:10 in degrees,120.0,3.0,clock
+474,smaller angle between hour and minute hands at 6:22 in degrees,48.0,3.0,clock
+475,smaller angle between hour and minute hands at 6:38 in degrees,48.0,3.0,clock
+476,smaller angle between hour and minute hands at 6:54 in degrees,144.0,3.0,clock
+477,smaller angle between hour and minute hands at 7:02 in degrees,162.0,3.0,clock
+478,smaller angle between hour and minute hands at 7:58 in degrees,138.0,3.0,clock
+479,smaller angle between hour and minute hands at 8:10 in degrees,180.0,3.0,clock
+480,smaller angle between hour and minute hands at 8:44 in degrees,24.0,3.0,clock
+481,smaller angle between hour and minute hands at 8:46 in degrees,36.0,3.0,clock
+482,smaller angle between hour and minute hands at 8:48 in degrees,48.0,3.0,clock
+483,smaller angle between hour and minute hands at 10:14 in degrees,144.0,3.0,clock
+484,smaller angle between hour and minute hands at 10:32 in degrees,108.0,3.0,clock
+485,smaller angle between hour and minute hands at 11:10 in degrees,90.0,3.0,clock
+486,smaller angle between hour and minute hands at 11:16 in degrees,126.0,3.0,clock
+487,smaller angle between hour and minute hands at 11:18 in degrees,138.0,3.0,clock
+488,smaller angle between hour and minute hands at 11:20 in degrees,150.0,3.0,clock
+489,value of 1 penny in cents,1.0,1.0,coins
+490,value of 2 pennies in cents,2.0,1.0,coins
+491,value of 3 pennies in cents,3.0,1.0,coins
+492,value of 4 pennies in cents,4.0,1.0,coins
+493,value of 1 nickel in cents,5.0,1.0,coins
+494,value of 1 nickel and 1 penny in cents,6.0,1.0,coins
+495,value of 1 nickel and 3 pennies in cents,8.0,1.0,coins
+496,value of 1 nickel and 4 pennies in cents,9.0,1.0,coins
+497,value of 2 nickels in cents,10.0,1.0,coins
+498,value of 2 nickels and 1 penny in cents,11.0,1.0,coins
+499,value of 2 nickels and 2 pennies in cents,12.0,1.0,coins
+500,value of 2 nickels and 3 pennies in cents,13.0,1.0,coins
+501,value of 2 nickels and 4 pennies in cents,14.0,1.0,coins
+502,value of 3 nickels in cents,15.0,1.0,coins
+503,value of 3 nickels and 1 penny in cents,16.0,1.0,coins
+504,value of 1 dime and 1 penny in cents,11.0,1.0,coins
+505,value of 1 dime and 2 pennies in cents,12.0,1.0,coins
+506,value of 1 dime and 2 nickels in cents,20.0,1.0,coins
+507,"value of 1 dime, 2 nickels, and 1 penny in cents",21.0,1.0,coins
+508,"value of 1 dime, 2 nickels, and 2 pennies in cents",22.0,1.0,coins
+509,value of 1 dime and 3 nickels in cents,25.0,1.0,coins
+510,"value of 1 dime, 3 nickels, and 1 penny in cents",26.0,1.0,coins
+511,value of 2 dimes in cents,20.0,1.0,coins
+512,value of 2 dimes and 1 penny in cents,21.0,1.0,coins
+513,value of 2 dimes and 2 pennies in cents,22.0,1.0,coins
+514,value of 2 dimes and 2 nickels in cents,30.0,1.0,coins
+515,value of 3 dimes in cents,30.0,1.0,coins
+516,value of 3 dimes and 1 penny in cents,31.0,1.0,coins
+517,value of 3 dimes and 2 pennies in cents,32.0,1.0,coins
+518,value of 3 dimes and 3 pennies in cents,33.0,1.0,coins
+519,value of 3 dimes and 4 pennies in cents,34.0,1.0,coins
+520,value of 3 dimes and 1 nickel in cents,35.0,1.0,coins
+521,"value of 3 dimes, 1 nickel, and 1 penny in cents",36.0,1.0,coins
+522,value of 3 dimes and 2 nickels in cents,40.0,1.0,coins
+523,value of 1 quarter and 1 nickel in cents,30.0,1.0,coins
+524,"value of 1 quarter, 1 nickel, and 1 penny in cents",31.0,1.0,coins
+525,"value of 1 quarter, 1 nickel, and 2 pennies in cents",32.0,1.0,coins
+526,"value of 1 quarter, 1 nickel, and 3 pennies in cents",33.0,1.0,coins
+527,value of 2 quarters and 1 dime in cents,60.0,1.0,coins
+528,"value of 2 quarters, 1 dime, and 1 penny in cents",61.0,1.0,coins
+529,"value of 2 quarters, 1 dime, and 2 pennies in cents",62.0,1.0,coins
+530,"value of 2 quarters, 1 dime, and 3 pennies in cents",63.0,1.0,coins
+531,"value of 2 quarters, 1 dime, 2 nickels, and 2 pennies in cents",72.0,1.0,coins
+532,"value of 2 quarters, 1 dime, 3 nickels, and 1 penny in cents",76.0,1.0,coins
+533,value of 2 quarters and 2 dimes in cents,70.0,1.0,coins
+534,"value of 2 quarters, 2 dimes, 1 nickel, and 1 penny in cents",76.0,1.0,coins
+535,"value of 2 quarters, 2 dimes, 3 nickels, and 1 penny in cents",86.0,1.0,coins
+536,value of 2 quarters and 3 dimes in cents,80.0,1.0,coins
+537,"value of 2 quarters, 3 dimes, 1 nickel, and 1 penny in cents",86.0,1.0,coins
+538,"value of 2 quarters, 3 dimes, 1 nickel, and 2 pennies in cents",87.0,1.0,coins
+539,"value of 2 quarters, 3 dimes, 3 nickels, and 1 penny in cents",96.0,1.0,coins
+540,value of 3 quarters in cents,75.0,1.0,coins
+541,"value of 3 quarters, 1 dime, and 3 pennies in cents",88.0,1.0,coins
+542,"value of 3 quarters, 1 dime, and 4 pennies in cents",89.0,1.0,coins
+543,"value of 3 quarters, 1 dime, and 1 nickel in cents",90.0,1.0,coins
+544,area of right triangle with perpendicular legs 2 units and 2 units,2.0,1.0,geometrical area
+545,area of rectangle with sides 2 units and 3 units,6.0,1.0,geometrical area
+546,area of right triangle with perpendicular legs 2 units and 3 units,3.0,1.0,geometrical area
+547,area of right triangle with perpendicular legs 2 units and 4 units,4.0,1.0,geometrical area
+548,area of rectangle with sides 2 units and 5 units,10.0,1.0,geometrical area
+549,area of right triangle with perpendicular legs 2 units and 5 units,5.0,1.0,geometrical area
+550,area of rectangle with sides 2 units and 6 units,12.0,1.0,geometrical area
+551,area of right triangle with perpendicular legs 2 units and 6 units,6.0,1.0,geometrical area
+552,area of rectangle with sides 2 units and 7 units,14.0,1.0,geometrical area
+553,area of right triangle with perpendicular legs 2 units and 7 units,7.0,1.0,geometrical area
+554,area of rectangle with sides 2 units and 10 units,20.0,1.0,geometrical area
+555,area of right triangle with perpendicular legs 2 units and 10 units,10.0,1.0,geometrical area
+556,area of right triangle with perpendicular legs 2 units and 12 units,12.0,1.0,geometrical area
+557,area of rectangle with sides 2 units and 13 units,26.0,1.0,geometrical area
+558,area of right triangle with perpendicular legs 3 units and 2 units,3.0,1.0,geometrical area
+559,area of rectangle with sides 3 units and 4 units,12.0,1.0,geometrical area
+560,area of rectangle with sides 3 units and 6 units,18.0,1.0,geometrical area
+561,area of right triangle with perpendicular legs 3 units and 6 units,9.0,1.0,geometrical area
+562,area of right triangle with perpendicular legs 4 units and 7 units,14.0,1.0,geometrical area
+563,area of rectangle with sides 4 units and 9 units,36.0,1.0,geometrical area
+564,area of right triangle with perpendicular legs 4 units and 9 units,18.0,1.0,geometrical area
+565,area of rectangle with sides 4 units and 11 units,44.0,1.0,geometrical area
+566,area of right triangle with perpendicular legs 4 units and 11 units,22.0,1.0,geometrical area
+567,area of rectangle with sides 4 units and 13 units,52.0,1.0,geometrical area
+568,area of square with side 5 units ,25.0,1.0,geometrical area
+569,area of rectangle with sides 100 units and 20 units,2000.0,2.0,geometrical area
+570,"area of rectangle with sides 1,000 units and 5 units",5000.0,2.0,geometrical area
+571,area of circle with radius 1 unit to nearest square unit,3.0,3.0,geometrical area
+572,area of circle with radius 2 unit to nearest square unit,13.0,3.0,geometrical area
+573,area of circle with radius 10 unit to nearest square unit,314.0,3.0,geometrical area
+574,area of circle with radius 3 unit to nearest square unit,28.0,3.0,geometrical area
+575,area of circle with radius 100 units to nearest square unit,31416.0,4.0,geometrical area
+576,area of square with side 10 units ,100.0,1.0,geometrical area
+577,area of square with side 2 units,4.0,1.0,geometrical area
+578,area of square with side 100 units,10000.0,2.0,geometrical area
+579,area of rectangle with sides 10000 units and 20 units,200000.0,3.0,geometrical area
+580,area of circle with radius 5 unit to nearest square unit,79,4.0,geometrical area
+581,area of regular hexagon with side length 2 units to nearest square unit,10.0,5.0,geometrical area
+582,area of regular hexagon with side length 5 units to nearest square unit,65.0,5.0,geometrical area
+583,area of regular hexagon with side length 10 units to nearest square unit,260.0,5.0,geometrical area
+584,area of regular pentagon with side length 2 units to nearest square unit,7.0,5.0,geometrical area
+585,area of regular pentagon with side length 5 units to nearest square unit,43.0,5.0,geometrical area
+586,area of rectangle with sides 7 units and 5 units,35.0,1.0,geometrical area
+587,area of right triangle with perpendicular legs 7 units and 6 units,21.0,1.0,geometrical area
+588,area of rectangle with sides 7 units and 10 units,70.0,1.0,geometrical area
+589,area of right triangle with perpendicular legs 7 units and 10 units,35.0,1.0,geometrical area
+590,area of rectangle with sides 7 units and 11 units,77.0,1.0,geometrical area
+591,area of rectangle with sides 8 units and 2 units,16.0,1.0,geometrical area
+592,area of right triangle with perpendicular legs 8 units and 2 units,8.0,1.0,geometrical area
+593,area of right triangle with perpendicular legs 8 units and 5 units,20.0,1.0,geometrical area
+594,area of rectangle with sides 8 units and 6 units,48.0,1.0,geometrical area
+595,area of rectangle with sides 8 units and 8 units,64.0,1.0,geometrical area
+596,area of right triangle with perpendicular legs 8 units and 8 units,32.0,1.0,geometrical area
+597,area of rectangle with sides 8 units and 9 units,72.0,1.0,geometrical area
+598,area of right triangle with perpendicular legs 8 units and 11 units,44.0,1.0,geometrical area
+599,area of rectangle with sides 9 units and 5 units,45.0,1.0,geometrical area
+600,area of right triangle with perpendicular legs 10 units and 3 units,15.0,1.0,geometrical area
+601,area of rectangle with sides 10 units and 4 units,40.0,1.0,geometrical area
+602,area of right triangle with perpendicular legs 10 units and 4 units,20.0,1.0,geometrical area
+603,area of rectangle with sides 10 units and 5 units,50.0,1.0,geometrical area
+604,area of rectangle with sides 10 units and 6 units,60.0,1.0,geometrical area
+605,weight of $20 worth of quarters in pounds,1.0,3.0,weight
+606,weight of $40 worth of quarters in pounds,2.0,3.0,weight
+607,weight of $60 worth of quarters in pounds,3.0,3.0,weight
+608,weight of $80 worth of quarters in pounds,4.0,3.0,weight
+609,weight of $200 worth of quarters in pounds,10.0,3.0,weight
+610,weight of $300 worth of quarters in pounds,15.0,3.0,weight
+611,weight of $400 worth of quarters in pounds,20.0,3.0,weight
+612,weight of $500 worth of quarters in pounds,25.0,3.0,weight
+613,weight of $600 worth of quarters in pounds,30.0,3.0,weight
+614,weight of $700 worth of quarters in pounds,35.0,3.0,weight
+615,weight of $800 worth of quarters in pounds,40.0,3.0,weight
+616,weight of $900 worth of quarters in pounds,45.0,3.0,weight
+617,weight of $1000 worth of quarters in pounds,50.0,3.0,weight
+618,weight of $2000 worth of quarters in pounds,100.0,3.0,weight
+619,cost of building 53W53 (MoMA expansion tower) in USD,1000000000.0,1.0,architecture
+620,worldwide box office for The Hangover in USD,466000000.0,2.0,film
+621,worldwide box office for Gravity in USD,696000000.0,2.0,film
+622,worldwide box office for How to Train Your Dragon in USD,495000000.0,2.0,film
+623,worldwide box office for Tangled in USD,587000000.0,2.0,film
+624,worldwide box office for Interstellar in USD,668000000.0,2.0,film
+625,worldwide box office for Dunkirk in USD,507000000.0,2.0,film
+626,worldwide box office for Taken in USD,227000000.0,2.0,film
+627,worldwide box office for Prometheus in USD,402000000.0,2.0,film
+628,worldwide box office for Terminator Salvation in USD,365000000.0,2.0,film
+629,worldwide box office for Avatar in USD,2784000000.0,2.0,film
+630,worldwide box office for Jurassic World in USD,1672000000.0,2.0,film
+631,worldwide box office for The Avengers in USD,1519000000.0,2.0,film
+632,worldwide box office for Finding Dory in USD,1023000000.0,2.0,film
+633,worldwide box office for Avengers: Age of Ultron in USD,1408000000.0,2.0,film
+634,worldwide box office for The Dark Knight Rises in USD,1084000000.0,2.0,film
+635,worldwide box office for Toy Story 3 in USD,1070000000.0,2.0,film
+636,worldwide box office for Wonder Woman in USD,817000000.0,2.0,film
+637,worldwide box office for Iron Man 3 in USD,1215000000.0,2.0,film
+638,worldwide box office for The Hunger Games in USD,678000000.0,2.0,film
+639,worldwide box office for Up in USD,732000000.0,2.0,film
+640,worldwide box office for Inception in USD,832000000.0,2.0,film
+641,worldwide box office for Interstellar in USD,668000000.0,2.0,film
+642,production budget for Avatar in USD,425000000.0,2.0,film
+643,production budget for Jurassic World in USD,215000000.0,2.0,film
+644,production budget for Iron Man 2 in USD,170000000.0,2.0,film
+645,production budget for The Hangover in USD,35000000.0,2.0,film
+646,production budget for Gravity in USD,110000000.0,2.0,film
+647,worldwide sales of Back in Black by AC/DC,50000000.0,2.0,music
+648,worldwide sales of Bad by Michael Jackson,35000000.0,2.0,music
+649,worldwide sales of 21 by Adele,31000000.0,2.0,music
+650,worldwide sales of 1 by The Beatles,31000000.0,2.0,music
+651,worldwide sales of Metallica by Metallica,30000000.0,2.0,music
+652,worldwide sales of Nevermind by Nirvana,30000000.0,2.0,music
+653,worldwide sales of The Wall by Pink Floyd,30000000.0,2.0,music
+654,worldwide sales of The Joshua Tree by U2,25000000.0,2.0,music
+655,worldwide sales of Spice by Spice Girls,23000000.0,2.0,music
+656,worldwide sales of Encore by Eminem,21000000.0,2.0,music
+657,worldwide sales of Cross Road by Bon Jovi,21000000.0,2.0,music
+658,worldwide sales of 25 by Adele,20000000.0,2.0,music
+659,worldwide sales of Boston by Boston,20000000.0,2.0,music
+660,worldwide sales of Dookie by Green Day,20000000.0,2.0,music
+661,worldwide sales of Confessions by Usher,12000000.0,2.0,music
+662,worldwide sales of X&Y by Coldplay,8000000.0,2.0,music
+663,worldwide sales of Recovery by Eminem,6000000.0,2.0,music
+664,worldwide sales of Lemonade by BeyoncÌ©,3000000.0,2.0,music
+665,number of days in January,31.0,1.0,time
+666,number of days in February in leap year,29.0,1.0,time
+667,number of days in March,31.0,1.0,time
+668,number of days in April,30.0,1.0,time
+669,number of days in May,31.0,1.0,time
+670,number of days in June,30.0,1.0,time
+671,number of days in July,31.0,1.0,time
+672,number of days in August,31.0,1.0,time
+673,number of days in September,30.0,1.0,time
+674,number of days in October,31.0,1.0,time
+675,number of days in November,30.0,1.0,time
+676,number of days in December,31.0,1.0,time
+677,number of sides in a triangle,3.0,1.0,geometry
+678,number of sides in a square,4.0,1.0,geometry
+679,number of sides in a hexagon,6.0,1.0,geometry
+680,number of sides in a pentagon,5.0,1.0,geometry
+681,number of sides in an octogon,8.0,1.0,geometry
+682,number of sides in a rhombus,4.0,1.0,geometry
+683,number of sides in a rectangle,4.0,1.0,geometry
+684,number of sides in a parallelogram,4.0,1.0,geometry
+685,number of angles in a triangle,3.0,1.0,geometry
+686,number of angles in a square,4.0,1.0,geometry
+687,number of angles in a hexagon,6.0,1.0,geometry
+688,number of angles in a pentagon,5.0,1.0,geometry
+689,number of angles in an octogon,8.0,1.0,geometry
+690,number of angles in a rhombus,4.0,1.0,geometry
+691,number of angles in a rectangle,4.0,1.0,geometry
+692,number of angles in a parallelogram,4.0,1.0,geometry
+693,area of a square with side length one,1.0,1.0,geometrical area
+694,area of a square with side length two,4.0,1.0,geometrical area
+695,area of a square with side length three,9.0,1.0,geometrical area
+696,area of a square with side length four,16.0,1.0,geometrical area
+697,area of a square with side length five,25.0,1.0,geometrical area
+698,area of a square with side length six,36.0,1.0,geometrical area
+699,area of a square with side length seven,49.0,1.0,geometrical area
+700,area of a square with side length eight,64.0,1.0,geometrical area
+701,area of a square with side length nine,81.0,1.0,geometrical area
+702,area of a square with side length ten,100.0,1.0,geometrical area
+703,perimeter of a square with side length one,4.0,1.0,geometrical perimeter
+704,perimeter of a square with side length two,8.0,1.0,geometrical perimeter
+705,perimeter of a square with side length three,12.0,1.0,geometrical perimeter
+706,perimeter of a square with side length four,16.0,1.0,geometrical perimeter
+707,perimeter of a square with side length five,20.0,1.0,geometrical perimeter
+708,perimeter of a square with side length six,24.0,1.0,geometrical perimeter
+709,perimeter of a square with side length seven,28.0,1.0,geometrical perimeter
+710,perimeter of a square with side length eight,32.0,1.0,geometrical perimeter
+711,perimeter of a square with side length nine,36.0,1.0,geometrical perimeter
+712,perimeter of a square with side length ten,40.0,1.0,geometrical perimeter
+713,number of letters in first name of US president elected in 2016,6.0,1.0,civics
+714,number of letters in first name of US president elected in 2008,6.0,1.0,civics
+715,number of letters in first name of US president elected in 2000,6.0,1.0,civics
+716,number of letters in first name of US president elected in 1992,7.0,1.0,civics
+717,number of letters in first name of US president elected in 1988,6.0,1.0,civics
+718,number of letters in first name of US president elected in 1980,6.0,1.0,civics
+719,number of letters in first name of US president elected in 1976,5.0,1.0,civics
+720,number of letters in first name of US president elected in 1968,7.0,1.0,civics
+721,number of letters in first name of US president elected in 1960,4.0,1.0,civics
+722,number of letters in last name of US president elected in 2016,5.0,1.0,civics
+723,number of letters in last name of US president elected in 2008,5.0,1.0,civics
+724,number of letters in last name of US president elected in 2000,4.0,1.0,civics
+725,number of letters in last name of US president elected in 1992,7.0,1.0,civics
+726,number of letters in last name of US president elected in 1988,4.0,1.0,civics
+727,number of letters in last name of US president elected in 1980,6.0,1.0,civics
+728,number of letters in last name of US president elected in 1976,5.0,1.0,civics
+729,number of letters in last name of US president elected in 1968,5.0,1.0,civics
+730,number of letters in last name of US president elected in 1960,7.0,1.0,civics
+731,the largest even number smaller than ten,8.0,1.0,math
+732,the largest even number smaller than five,4.0,1.0,math
+733,the largest even number smaller than three,2.0,1.0,math
+734,the largest even number smaller than twenty,18.0,1.0,math
+735,the largest even number smaller than a hundred,98.0,1.0,math
+736,the largest even number smaller than a thousand,998.0,1.0,math
+737,the largest even number smaller than seven,6.0,1.0,math
+738,the largest even number smaller than six,4.0,1.0,math
+739,the largest even number smaller than fifty,48.0,1.0,math
+740,the largest odd number smaller than ten,9.0,1.0,math
+741,the largest odd number smaller than five,3.0,1.0,math
+742,the largest odd number smaller than three,1.0,1.0,math
+743,the largest odd number smaller than twenty,19.0,1.0,math
+744,the largest odd number smaller than a hundred,99.0,1.0,math
+745,the largest odd number smaller than a thousand,999.0,1.0,math
+746,the largest odd number smaller than seven,5.0,1.0,math
+747,the largest odd number smaller than six,5.0,1.0,math
+748,the largest odd number smaller than fifty,49.0,1.0,math
+749,the smallest even number greater than ten,12.0,1.0,math
+750,the smallest even number greater than five,6.0,1.0,math
+751,the smallest even number greater than three,4.0,1.0,math
+752,the smallest even number greater than twenty,22.0,1.0,math
+753,the smallest even number greater than a hundred,102.0,1.0,math
+754,the smallest even number greater than a thousand,1002.0,1.0,math
+755,the smallest even number greater than seven,8.0,1.0,math
+756,the smallest even number greater than six,8.0,1.0,math
+757,the smallest even number greater than fifty,52.0,1.0,math
+758,the smallest even number greater than one,2.0,1.0,math
+759,the sum of the digits from one to three,6.0,1.0,math
+760,the sum of the digits from one to four,10.0,1.0,math
+761,the sum of the digits from one to five,15.0,1.0,math
+762,the smallest odd number greater than ten,11.0,1.0,math
+763,the smallest odd number greater than five,7.0,1.0,math
+764,the smallest odd number greater than three,5.0,1.0,math
+765,the smallest odd number greater than twenty,21.0,1.0,math
+766,the smallest odd number greater than a hundred,101.0,1.0,math
+767,the smallest odd number greater than a thousand,1001.0,1.0,math
+768,the smallest odd number greater than seven,9.0,1.0,math
+769,the smallest odd number greater than six,7.0,1.0,math
+770,the smallest odd number greater than fifty,51.0,1.0,math
+771,the smallest odd number greater than one,2.0,1.0,math
+772,the number of fingers on one hand,5.0,1.0,math
+773,the number of fingers on two hands,10.0,1.0,math
+774,the number of fingers on three hands,15.0,1.0,math
+775,the number of fingers on four hands,20.0,1.0,math
+776,two raised to the power of one,2.0,1.0,math
+777,one raised to the power of one,1.0,1.0,math
+778,three raised to the power of one,3.0,1.0,math
+779,four raised to the power of one,4.0,1.0,math
+780,a hundred raised to the power of one,100.0,1.0,math
+781,two raised to the power of two,4.0,1.0,math
+782,two raised to the power of three,8.0,1.0,math
+783,two raised to the power of four,16.0,1.0,math
+784,two raised to the power of zero,1.0,1.0,math
+785,ten raised to the power of one,10.0,1.0,math
+786,ten raised to the power of two,100.0,1.0,math
+787,ten raised to the power of three,1000.0,1.0,math
+788,ten raised to the power of four,10000.0,1.0,math
+789,ten raised to the power of five,100000.0,1.0,math
+790,ten raised to the power of six,1000000.0,1.0,math
+791,the side length of a square with area one,1.0,1.0,geometrical area
+792,the side length of a square with an area of four units,2.0,1.0,geometrical area
+793,the side length of a square with an area of nine units,3.0,1.0,geometrical area
+794,the side length of a square with an area of sixteen units,4.0,1.0,geometrical area
+795,the side length of a square with an area of twenty-five units,5.0,1.0,geometrical area
+796,the side length of a square with an area of thirty-six units,6.0,1.0,geometrical area
+797,the side length of a square with an area of one hundred units,10.0,1.0,geometrical area
+798,the side length of a square with an area of forty-nine units,7.0,1.0,geometrical area
+799,the side length of a square with an area of one million units,1000.0,1.0,geometrical area
+800,the side length of a square with an area of ten thousand units,100.0,1.0,geometrical area
+801,the side length of a square with an area of sixty-four units,8.0,1.0,geometrical area
+802,the largest prime number smaller than ten,7.0,2.0,math
+803,the largest prime number smaller than five,3.0,2.0,math
+804,the largest prime number smaller than twenty,19.0,2.0,math
+805,the largest prime number smaller than a hundred,97.0,2.0,math
+806,the largest prime number smaller than a thousand,997.0,2.0,math
+807,the largest prime number smaller than seven,5.0,2.0,math
+808,the largest prime number smaller than six,5.0,2.0,math
+809,the largest prime number smaller than fifty,47.0,2.0,math
+810,the largest prime number smaller than four,3.0,2.0,math
+811,the largest prime number smaller than eight,7.0,2.0,math
+812,the positive square root of thirthy-six,6.0,1.0,math
+813,the positive square root of one hundred,10.0,1.0,math
+814,the positive square root of forty-nine,7.0,1.0,math
+815,the positive square root of one million,1000.0,1.0,math
+816,the positive square root of ten thousand,100.0,1.0,math
+817,the positive square root of sixty-four,8.0,1.0,math
+818,the number of black Jacks in a pack of cards,2.0,1.0,cards
+819,the number of black Queens in a pack of cards,2.0,1.0,cards
+820,the number of black Aces in a pack of cards,2.0,1.0,cards
+821,the number of black Kings in a pack of cards,2.0,1.0,cards
+822,the number of black face cards in a pack of cards,6.0,1.0,cards
+823,the number of black pip cards in a pack of cards,20.0,1.0,cards
+824,the number of black even-numbered cards in a pack of cards,10.0,1.0,cards
+825,the number of red Jacks in a pack of cards,2.0,1.0,cards
+826,the number of red Queens in a pack of cards,2.0,1.0,cards
+827,the number of red Aces in a pack of cards,2.0,1.0,cards
+828,the number of red Kings in a pack of cards,2.0,1.0,cards
+829,the number of red face cards in a pack of cards,6.0,1.0,cards
+830,the number of red even-numbered cards in a pack of cards,10.0,1.0,cards
+831,the number of Jacks in a pack of cards,4.0,1.0,cards
+832,the number of Queens in a pack of cards,4.0,1.0,cards
+833,the number of Aces in a pack of cards,4.0,1.0,cards
+834,the number of Kings in a pack of cards,4.0,1.0,cards
+835,the number of face cards in a pack of cards,12.0,1.0,cards
+836,the number of even-numbered cards in a pack of cards,20.0,1.0,cards
+837,smallest number of pennies and nickels needed to make $0.01,1.0,1.0,coins
+838,smallest number of pennies and nickels needed to make $0.02,2.0,1.0,coins
+839,smallest number of pennies and nickels needed to make $0.03,3.0,1.0,coins
+840,smallest number of pennies and nickels needed to make $0.04,4.0,1.0,coins
+841,smallest number of pennies and nickels needed to make $0.05,1.0,1.0,coins
+842,smallest number of pennies and nickels needed to make $0.06,2.0,1.0,coins
+843,smallest number of pennies and nickels needed to make $0.07,3.0,1.0,coins
+844,smallest number of pennies and nickels needed to make $0.08,4.0,1.0,coins
+845,smallest number of pennies and nickels needed to make $0.09,5.0,1.0,coins
+846,smallest number of dimes needed to make $0.10,1.0,1.0,coins
+847,the remainder when two is divided by two,0.0,1.0,remainder
+848,the remainder when three is divided by two,1.0,1.0,remainder
+849,the remainder when four is divided by two,0.0,1.0,remainder
+850,the remainder when five is divided by two,1.0,1.0,remainder
+851,the remainder when six is divided by two,0.0,1.0,remainder
+852,the remainder when seven is divided by two,1.0,1.0,remainder
+853,the remainder when eight is divided by two,0.0,1.0,remainder
+854,the remainder when nine is divided by two,1.0,1.0,remainder
+855,the remainder when ten is divided by two,0.0,1.0,remainder
+856,the remainder when eleven is divided by two,1.0,1.0,remainder
+857,the remainder when twelve is divided by two,0.0,1.0,remainder
+858,the remainder when fifteen is divided by two,1.0,1.0,remainder
+859,the remainder when twenty is divided by two,0.0,1.0,remainder
+860,the remainder when thirty is divided by two,0.0,1.0,remainder
+861,the remainder when forty is divided by two,0.0,1.0,remainder
+862,the remainder when fifty is divided by two,0.0,1.0,remainder
+863,the remainder when one hundred is divided by two,0.0,1.0,remainder
+864,the remainder when fifty-one is divided by two,1.0,1.0,remainder
+865,the remainder when one billion is divided by two,0.0,1.0,remainder
+866,the remainder when one million is divided by two,0.0,1.0,remainder
+867,the remainder when ninety-nine is divided by two,1.0,1.0,remainder
+868,the remainder when eighty-eight is divided by two,0.0,1.0,remainder
+869,the remainder when three is divided by three,0.0,1.0,remainder
+870,the remainder when four is divided by three,1.0,1.0,remainder
+871,the remainder when five is divided by three,2.0,1.0,remainder
+872,the remainder when six is divided by three,0.0,1.0,remainder
+873,the remainder when seven is divided by three,1.0,1.0,remainder
+874,the remainder when eight is divided by three,2.0,1.0,remainder
+875,the remainder when nine is divided by three,0.0,1.0,remainder
+876,the remainder when ten is divided by three,1.0,1.0,remainder
+877,the remainder when eleven is divided by three,2.0,1.0,remainder
+878,the remainder when twelve is divided by three,0.0,1.0,remainder
+879,the remainder when fifteen is divided by three,0.0,1.0,remainder
+880,the remainder when twenty is divided by three,2.0,1.0,remainder
+881,the remainder when thirty is divided by three,0.0,1.0,remainder
+882,the remainder when forty is divided by three,1.0,1.0,remainder
+883,the remainder when fifty is divided by three,2.0,1.0,remainder
+884,the remainder when one hundred is divided by three,1.0,1.0,remainder
+885,the remainder when fifty-one is divided by three,0.0,1.0,remainder
+886,the remainder when one billion is divided by three,1.0,1.0,remainder
+887,the remainder when ninety-nine is divided by three,0.0,1.0,remainder
+888,"Rank of Apple Inc. among world companies by market cap, at end 2016",1.0,4.0,market cap
+889,"Rank of Alphabet Inc. among world companies by market cap, at end 2016",2.0,4.0,market cap
+890,"Rank of Microsoft among world companies by market cap, at end 2016",3.0,4.0,market cap
+891,"Rank of Amazon.com among world companies by market cap, at end 2016",4.0,4.0,market cap
+892,"Rank of Berkshire Hathaway among world companies by market cap, at end 2016",5.0,4.0,market cap
+893,"Rank of ExxonMobil among world companies by market cap, at end 2016",6.0,4.0,market cap
+894,"Rank of Johnson & Johnson among world companies by market cap, at end 2016",7.0,4.0,market cap
+895,"Rank of Facebook among world companies by market cap, at end 2016",8.0,4.0,market cap
+896,"Rank of JPMorgan Chase among world companies by market cap, at end 2016",9.0,4.0,market cap
+897,"Rank of WellsFargo among world companies by market cap, at end 2016",10.0,4.0,market cap
+898,Year of independence of Australia,1901.0,4.0,history
+899,Sales of Don Quixote by Miguel de Cervantes,500000000.0,4.0,literature
+900,Sales of A Tale of Two Cities by Charles Dickens,200000000.0,4.0,literature
+901,Sales of The Lord of the Rings by J. R. R. Tolkien,150000000.0,4.0,literature
+902,Sales of Le Petit Prince by Antoine de Saint-Exupery,140000000.0,4.0,literature
+903,Sales of Harry Potter and the Philosopher‰Ûªs Stone by J. K. Rowling,120000000.0,4.0,literature
+904,Sales of The Hobbit by J. R. R. Tolkien,100000000.0,4.0,literature
+905,Sales of And Then There Were None by Agatha Christie,100000000.0,4.0,literature
+906,Year of publication of Don Quixote by Miguel de Cervantes,1605.0,4.0,history
+907,Year of publication of A Tale of Two Cities by Charles Dickens,1859.0,4.0,history
+908,Year of publication of Le Petit Prince by Antoine de Saint-Exupery,1943.0,4.0,history
+909,Year of publication of Harry Potter and the Philosopher‰Ûªs Stone by J. K. Rowling,1997.0,4.0,history
+910,Year of publication of The Hobbit by J. R. R. Tolkien,1937.0,4.0,history
+911,Year of publication of And Then There Were None by Agatha Christie,1939.0,4.0,history
+912,"Sales of The Lion, the Witch and the Wardrobe by C. S. Lewis",85000000.0,4.0,literature
+913,Percentage of population using the internet in China as of 2016,53.2,4.0,internet
+914,Percentage of population using the internet in India as of 2016,29.55,4.0,internet
+915,Percentage of population using the internet in the United States as of 2016,76.18,4.0,internet
+916,Percentage of population using the internet in Brazil as of 2016,59.68,4.0,internet
+917,Percentage of population using the internet in Japan as of 2016,92.0,4.0,internet
+918,Percentage of population using the internet in Russia as of 2016,76.41,4.0,internet
+919,Percentage of population using the internet in Mexico as of 2016,59.54,4.0,internet
+920,Percentage of population using the internet in Germany as of 2016,89.65,4.0,internet
+921,Percentage of population using the internet in Indonesia as of 2016,25.37,4.0,internet
+922,Percentage of population using the internet in United Kingdom as of 2016,94.78,4.0,internet
+923,Percentage of population using the internet in Philippines as of 2016,55.5,4.0,internet
+924,Percentage of population using the internet in France as of 2016,85.62,4.0,internet
+925,Percentage of population using the internet in Nigeria as of 2016,25.67,4.0,internet
+926,Percentage of population using the internet in South Korea as of 2016,92.72,4.0,internet
+927,Revenues of Walmart for 2016 in USD,485873000000.0,4.0,revenue
+928,Revenues of Toyota for 2016 in USD,254694000000.0,4.0,revenue
+929,Revenues of Volkswagen Group for 2016 in USD,240264000000.0,4.0,revenue
+930,Revenues of Berkshire Hathaway for 2016 in USD,223604000000.0,4.0,revenue
+931,Revenues of Apple for 2016 in USD,215639000000.0,4.0,revenue
+932,Revenues of Exxon Mobil for 2016 in USD,205004000000.0,4.0,revenue
+933,Revenues of Verizon for 2016 in USD,125980000000.0,4.0,revenue
+934,Revenues of Allianz for 2016 in USD,122196000000.0,4.0,revenue
+935,Employees of Walmart at end 2015,2300000.0,3.0,employees
+936,Employees of Toyota at end 2015,364445.0,3.0,employees
+937,Employees of Volkswagen Group at end 2015,626715.0,3.0,employees
+938,Employees of Berkshire Hathaway at end 2015,367700.0,3.0,employees
+939,Employees of Apple at end 2015,116000.0,3.0,employees
+940,Employees of Exxon Mobil at end 2015,72700.0,3.0,employees
+941,Employees of McKesson at end 2015,64500.0,3.0,employees
+942,Employees of BP at end 2015,74500.0,3.0,employees
+943,Employees of Samsung Electronics at end 2015,325000.0,3.0,employees
+944,Employees of General Motors at end 2015,225000.0,3.0,employees
+945,Employees of AT&T at end 2015,268540.0,3.0,employees
+946,Employees of Ford Motor Company at end 2015,201000.0,3.0,employees
+947,Employees of Amazon at end 2015,341400.0,3.0,employees
+948,Employees of Honda at end 2015,211915.0,3.0,employees
+949,Employees of General Electric at end 2015,295000.0,3.0,employees
+950,Employees of Verizon at end 2015,160900.0,3.0,employees
+951,Diameter of the moon in miles,2160.0,5.0,astronomy
+952,Length of the Great Wall of China in miles,5500.0,4.0,geographical distance
+953,Length of the Trans-Siberian Railway in miles,6152.0,4.0,geographical distance
+954,Diameter of the sun in miles,864000.0,5.0,astronomy
+955,Diameter of Jupiter in miles,87000.0,5.0,astronomy
+956,Moon‰Ûªs orbital distance from Earth in miles,239000.0,4.0,astronomy
+957,One light-minute in miles,11180000.0,5.0,astronomy
+958,Depth of the Mariana Trench in feet,36070.0,5.0,ocean
+959,Circumference of the Large Hadron Collider in miles,16.6,5.0,architecture
+960,Length of the Suez Canal in miles,120.0,4.0,geographical distance
+961,Length of the Nile river in miles,4200.0,4.0,geographical distance
+962,Equatorial diameter of Earth in miles,7918.0,5.0,geographical distance
+963,Greatest mileage ever recorded by a car in miles,3000000.0,4.0,automotive engineering
+964,Weight of the Hubble Space Telescope in pounds,24500.0,5.0,space engineering
+965,Mass of the largest dinosaur in pounds,213000.0,5.0,zoology
+966,Mass of the International Space Station in pounds,925000.0,5.0,space engineering
+967,Mass of the Titanic in metric tons,52310.0,5.0,marine engineering
+968,Mass of the Great Pyramid of Giza in metric tons,5800000.0,5.0,architecture
+969,Number of 5-card poker hands,5548000.0,5.0,math
+970,Number of active users on Facebook as of October 2015,1500000000.0,5.0,internet
+971,Number of base pairs in the human genome,3000000000.0,5.0,genetics
+972,Price of the domain name Insurance.com in USD,35600000.0,5.0,domain name
+973,Price of the domain name Internet.com in USD,18000000.0,5.0,domain name
+974,Price of the domain name Business.com in USD,7500000.0,5.0,domain name
+975,Price of the domain name Loans.com in USD,3000000.0,5.0,domain name
+976,Price of the original examplar of the Magna Carta in USD,21300000.0,5.0,price
+977,Reported price for baby photos of Knox Leon & Vivienne Marcheline Jolie-Pitt in US dollars,15000000.0,5.0,price
+978,"Bounty on Abu Bakr al-Baghdadi, head of ISIS, as at 2017 in USD",25000000.0,5.0,bounty
+979,"Bounty on Ayman al-Zawahiri, head of Al Qaeda, as at 2017 in USD",25000000.0,5.0,bounty
+980,Attendance of the largest concert ever performed by the Rolling Stones,1500000.0,4.0,public gathering
+981,"Homicides in Rio de Janeiro, Brazil, in 2009",3703.0,3.0,homicides
+982,"Homicides in Sao Paulo, Brazil, in 2009",3535.0,3.0,homicides
+983,"Homicides in Cape Town, South Africa, in 2007",2222.0,3.0,homicides
+984,"Homicides in Durban, South Africa, in 2007",1981.0,3.0,homicides
+985,"Homicides in Karachi, Pakistan in 2007",841.0,3.0,homicides
+986,"Inflation rate in Chad in 2016, to nearest percent",-4.0,3.0,inflation
+987,"Inflation rate in United Kingdom in 2016, to nearest percent",1.0,3.0,inflation
+988,"Inflation rate in United States in 2016, to nearest percent",1.0,3.0,inflation
+989,"Inflation rate in Saudia Arabia in 2016, to nearest percent",4.0,3.0,inflation
+990,"Inflation rate in Egypt in 2016, to nearest percent",14.0,3.0,inflation
+991,"Inflation rate in Venezuela in 2016, to nearest percent",254.0,5.0,inflation
+992,Consumption of fossil fuels in Kuwait as % of installed capacity in 2015,100.0,4.0,energy breakdown
+993,Consumption of fossil fuels in Libya as % of installed capacity in 2015,100.0,4.0,energy breakdown
+994,Consumption of fossil fuels in Chile as % of installed capacity in 2015,61.0,4.0,energy breakdown
+995,Consumption of fossil fuels in the United Kingdom as % of installed capacity in 2015,56.0,4.0,energy breakdown
+996,Consumption of fossil fuels in North Korea as % of installed capacity in 2015,45.0,4.0,energy breakdown
+997,Consumption of fossil fuels in France as % of installed capacity in 2015,16.0,4.0,energy breakdown
+998,Consumption of fossil fuels in Norway as % of installed capacity in 2015,4.0,4.0,energy breakdown
+999,Consumption of fossil fuels in Canada as % of installed capacity in 2015,26.0,4.0,energy breakdown
+1000,Consumption of fossil fuels in the United States as % of installed capacity in 2015,71.0,4.0,energy breakdown
+1001,Consumption of fossil fuels in China as % of installed capacity in 2015,64.0,4.0,energy breakdown
+1002,"Crude oil exported from Saudi Arabia, in thousand barrels per day",7273.0,5.0,crude oil exports
+1003,Crude oil exported from Russia in thousand barrels per day,5116.0,5.0,crude oil exports
+1004,Crude oil exported from Canada in thousand barrels per day,2671.0,5.0,crude oil exports
+1005,Crude oil exported from Nepal in thousand barrels per day,2016.0,5.0,crude oil exports
+1006,Crude oil exported from United Kingdom in thousand barrels per day,636.0,5.0,crude oil exports
+1007,Crude oil exported from United States in thousand barrels per day,590.0,5.0,crude oil exports
+1008,Crude oil exported from Norway in thousand barrels per day,1395.0,5.0,crude oil exports
+1009,Crude oil exported from Germany in thousand barrels per day,2.0,5.0,crude oil exports
+1010,Crude oil exported from Egypt in thousand barrels per day,198.0,5.0,crude oil exports
+1011,Crude oil exported from Italy in thousand barrels per day,12.0,5.0,crude oil exports
+1012,Consumption of hydroelectric power in Switzerland as % of installed capacity in 2015,61.0,3.0,energy breakdown
+1013,Consumption of hydroelectric power in Norway as % of installed capacity in 2015,88.0,3.0,energy breakdown
+1014,Consumption of hydroelectric power in United Kingdom as % of installed capacity in 2015,2.0,3.0,energy breakdown
+1015,Consumption of hydroelectric power in United States as % of installed capacity in 2015,7.0,3.0,energy breakdown
+1016,Consumption of hydroelectric power in France as % of installed capacity in 2015,14.0,3.0,energy breakdown
+1017,Value of Publicly Traded Shares in the United States in Billion USD,25070.0,4.0,stock market total
+1018,Value of Publicly Traded Shares in China in Billion USD,7321.0,4.0,stock market total
+1019,Value of Publicly Traded Shares in Japan in Billion USD,4895.0,4.0,stock market total
+1020,Value of Publicly Traded Shares in the United Kingdom in Billion USD,3019.0,4.0,stock market total
+1021,Value of Publicly Traded Shares in Russia in Billion USD,636.0,4.0,stock market total
+1022,Area of Russia in square miles,6602000.0,4.0,country area
+1023,Area of Canada in square miles,3855000.0,3.0,country area
+1024,Area of the United States in square miles,3797000.0,3.0,country area
+1025,Area of Australia in square miles,2989000.0,3.0,country area
+1026,Area of Libya in square miles,679000.0,3.0,country area
+1027,Area of France in square miles,249000.0,3.0,country area
+1028,Area of the United Kingdom in square miles,94000.0,3.0,country area
+1029,Area of Denmark in square miles,17000.0,4.0,country area
+1030,Area of Hong Kong in square miles,430.0,4.0,city area
+1031,Area of Macau in square miles,10.0,4.0,city area
+1032,Area of Singapore in square miles,270.0,4.0,city area
+1033,Life expectancy at birth in Monaco,89.0,3.0,life expectancy
+1034,Life expectancy at birth in Japan,85.0,3.0,life expectancy
+1035,Life expectancy at birth in Italy,82.0,3.0,life expectancy
+1036,Life expectancy at birth in France,82.0,3.0,life expectancy
+1037,Life expectancy at birth in the United Kingdom,81.0,3.0,life expectancy
+1038,Life expectancy at birth in Saudi Arabia,76.0,3.0,life expectancy
+1039,Life expectancy at birth in Afghanistan,52.0,3.0,life expectancy
+1040,Life expectancy at birth in Yemen,66.0,3.0,life expectancy
+1041,People living with HIV/AIDS in South Africa,7100000.0,4.0,HIV
+1042,People living with HIV/AIDS in India,2100000.0,3.0,HIV
+1043,People living with HIV/AIDS in Brazil,830000.0,3.0,HIV
+1044,People living with HIV/AIDS in France,180000.0,3.0,HIV
+1045,People living with HIV/AIDS in Egypt,11000.0,3.0,HIV
+1046,People living with HIV/AIDS in Ireland,6200.0,3.0,HIV
+1047,People living with HIV/AIDS in the Netherlands,23000.0,3.0,HIV
+1048,Real GDP growth rate in Venezuela in 2016,-18.0,4.0,growth
+1049,Real GDP growth rate in Argentina in 2016,-2.3,4.0,growth
+1050,Real GDP growth rate in Russia in 2016,-1.0,3.0,growth
+1051,Real GDP growth rate in the United States in 2016,2.0,3.0,growth
+1052,Real GDP growth rate in Ireland in 2016,5.0,3.0,growth
+1053,Real GDP growth rate in China in 2016,7.0,3.0,growth
+1054,Proved reserves of crude oil in Venezuela in barrels,300900000000.0,4.0,crude oil reserves
+1055,Proved reserves of crude oil In Saudi Arabia in barrels,266500000000.0,4.0,crude oil reserves
+1056,Proved reserves of crude oil in Canada in barrels,168700000000.0,4.0,crude oil reserves
+1057,Proved reserves of crude oil in Russia in barrels,80000000000.0,4.0,crude oil reserves
+1058,Proved reserves of crude oil in the United Kingdom in barrels,2564000000.0,4.0,crude oil reserves
+1059,Proved reserves of crude oil in the United States in barrels,36520000000.0,4.0,crude oil reserves
+1060,Proved reserves of crude oil in Australia in barrels,1821000000.0,4.0,crude oil reserves
+1061,Proved reserves of crude oil in France in barrels,72350000.0,4.0,crude oil reserves
+1062,Proved reserves of crude oil in Israel in barrels,12730000.0,4.0,crude oil reserves
+1063,Value of national exports from China in USD,1990000000000.0,4.0,value of national exports
+1064,Value of national exports from the United States in USD,1456000000000.0,4.0,value of national exports
+1065,Value of national exports from France in USD,507000000000.0,4.0,value of national exports
+1066,Value of national exports from Germany in USD,1322000000000.0,4.0,value of national exports
+1067,Value of national exports from the United Kingdom in USD,407300000000.0,4.0,value of national exports
+1068,Value of national exports from Russia in USD,281900000000.0,4.0,value of national exports
+1069,Value of national exports from Egypt in USD,20020000000.0,4.0,value of national exports
+1070,Tax collected as a percentage of GDP in Cuba,62.0,4.0,tax as percentage of GDP
+1071,Tax collected as a percentage of GDP in Denmark,53.0,4.0,tax as percentage of GDP
+1072,Tax collected as a percentage of GDP in the United Kingdom,39.0,4.0,tax as percentage of GDP
+1073,Tax collected as a percentage of GDP in Australia,34.0,4.0,tax as percentage of GDP
+1074,Tax collected as a percentage of GDP in the United States,18.0,4.0,tax as percentage of GDP
+1075,Tax collected as a percentage of GDP in Israel,26.0,4.0,tax as percentage of GDP
+1076,Tax collected as a percentage of GDP in Chad,10.0,4.0,tax as percentage of GDP
+1077,Forested area in Russia in square miles,3146000.0,4.0,forested area
+1078,Forested area in Canada in square miles,1898000.0,4.0,square miles
+1079,Forested area in United States in square miles,1197000.0,4.0,forested area
+1080,Forested area in Greece in square miles,14000.0,4.0,forested area
+1081,Forested area in Iraq in square miles,3200.0,4.0,forested area
+1082,Forested area in Switzerland in square miles,4800.0,4.0,forested area
+1083,Forested area in Cuba in square miles,10000.0,4.0,forested area
+1084,Nuclear weapons in USA in 2017,6800.0,3.0,nukes
+1085,Nuclear weapons in Russia in 2017,7000.0,3.0,nukes
+1086,Nuclear weapons in United Kingdom in 2017,215.0,3.0,nukes
+1087,Nuclear weapons in France in 2017,300.0,3.0,nukes
+1088,Nuclear weapons in China in 2017,270.0,3.0,nukes
+1089,Nuclear weapons in India in 2017,115.0,3.0,nukes
+1090,Nuclear weapons in Pakistan in 2017,125.0,3.0,nukes
+1091,Number of billionaires in USA in 2017,565.0,3.0,billionaires
+1092,Number of billionaires in China in 2017,319.0,3.0,billionaires
+1093,Number of billionaires in Switzerland in 2017,36.0,3.0,billionaires
+1094,Number of billionaires in Norway in 2017,14.0,3.0,billionaires
+1095,Production of aluminum in China in metric tons in 2016,31000000.0,3.0,aluminum
+1096,Production of aluminum in USA in metric tons in 2016,840000.0,3.0,aluminum
+1097,Production of aluminum in Australia in metric tons in 2016,1680000.0,3.0,aluminum
+1098,Production of aluminum in India in metric tons in 2016,2750000.0,3.0,aluminum
+1099,Production of aluminum in Brazil in metric tons in 2016,790000.0,3.0,aluminum
+1100,Gold holdings of USA in metric tons in 2017,8133000.0,3.0,gold
+1101,Gold holdings of France in metric tons in 2017,2436000.0,3.0,gold
+1102,Gold holdings of India in metric tons in 2017,558000.0,3.0,gold
+1103,Gold holdings of United Kingdom in metric tons in 2017,310000.0,3.0,gold
+1104,Gold holdings of Spain in metric tons in 2017,282000.0,3.0,gold
+1105,Number of weeks in Billboard top ten for Shape of You by Ed Sheeran,33.0,2.0,top ten
+1106,Number of weeks in Billboard top ten for Uptown Funk by Mark Ronson,31.0,,top ten
+1107,Number of weeks in Billboard top ten for Smooth by Santana and Rob Thomas,30.0,,top ten
+1108,Number of weeks in Billboard top ten for Truly Madly Deeply by Savage Garden,26.0,,top ten
+1109,Number of weeks in Billboard top ten for Despacito by Luis Fonsi and Daddy Yankee,25.0,,top ten
+1110,Number of weeks in Billboard top hundred for I‰Ûªm Yours by Jason Mraz,76.0,,top hundred
+1111,Number of weeks in Billboard top hundred for How Do I Live by LeAnn Rimes,69.0,,top hundred
+1112,Number of weeks in Billboard top hundred for Foolish Games by Jewel,65.0,,top hundred
+1113,Number of weeks in Billboard top hundred for Before He Cheats by Carrie Underwood,64.0,,top hundred
+1114,Number of weeks in Billboard top hundred for You and Me by Lifehouse,62.0,,top hundred
+1115,Total weeks at number one on Billboard chart for Elvis Presley,79.0,,number one
+1116,Total weeks at number one on Billboard chart for Mariah Carey,79.0,,number one
+1117,Total weeks at number one on Billboard chart for Rihanna,60.0,,number one
+1118,Total weeks at number one on Billboard chart for Beyonce,41.0,,number one
+1119,Total weeks at number one on Billboard chart for Elton John,34.0,,number one
+1120,Total weeks at number one on Billboard chart for Katy Perry,33.0,,number one
+1121,Total sales of the Playstation 2,155000000.0,,game console sales
+1122,Total sales of the Nintendo DS,154000000.0,,game console sales
+1123,Total sales of the original Xbox,24000000.0,,game console sales
+1124,Total sales of the Atari 2600,30000000.0,,game console sales
+1125,Total sales of the original Playstation,102490000.0,,game console sales
+1126,Number of letters in the King James Bible,3566480.0,,books
+1127,Number of words in Infinite Jest by David Foster Wallace,543709.0,,books
+1128,Number of words in the Harry Potter book series,1084170.0,,books
+1129,Number of words in Atlas Shrugged by Ayn Rand,645000.0,,books
+1130,Number of words in The Hobbit by J.R.R Tolkien,95033.0,,books
+1131,Length of Sydney Harbor Bridge in feet,1650.0,,bridges
+1132,Length of Golden Gate Bridge in feet,4200.0,,bridges
+1133,Length of Danyang‰ÛÒKunshan Grand Bridge (world‰Ûªs longest bridge) in feet,540700.0,,bridges
+1134,Length of Brooklyn Bridge in feet,5988.0,,bridges
+1135,Length of Tower Bridge (in London) in feet,801.0,,bridges
+1136,Number of episodes in the TV series Friends,236.0,,television
+1137,Number of episodes in the TV series Law & Order,456.0,,television
+1138,Number of episodes in the TV series Seinfeld,180.0,,television
+1139,Number of episodes in the TV series The X-files,210.0,,television
+1140,Number of episodes in the TV series Futurama,140.0,,television
+1141,Number of seats in the EU parliament in 2017,751.0,2.0,legislatures
+1142,Number of representatives in the US House of Representatives in 2017,435.0,2.0,legislatures
+1143,Number of representatives in the Canadian parliament in 2017,443.0,2.0,legislatures
+1144,Number of representatives in the German Federal Council in 2017,69.0,2.0,legislatures
+1145,Number of representatives in the Ukraine parliament in 2017,450.0,2.0,legislatures
+1146,Age of the Earth in years,4540000000.0,5.0,astronomical times
+1147,Age of the Sun in years,4600000000.0,5.0,astronomical times
+1148,Years since the big bang,13800000000.0,5.0,astronomical times
+1149,Years since the Milky Way Galaxy formed,13600000000.0,5.0,astronomical times
+1150,Volume of a shipping container in cubic feet,1360.0,4.0,misc volumes
+1151,Volume of an Olympic swimming pool in cubic feet,88000.0,4.0,misc volumes
+1152,Volume of the Royal Albert Hall auditorium in cubic feet,3300000.0,4.0,misc volumes
+1153,Volume of gas in the Hindenberg Zeppelin in cubic feet,7500000.0,4.0,misc volumes
+1154,Volume of the Grand Canyon in cubic miles,1000.0,4.0,misc volumes
+1155,Length of the Oval Office in feet,35.8,2.0,architecture
+1156,Total employer establishments in USA,7664000.0,3.0,us demographics
+1157,Total employed people in USA,124000000.0,3.0,us demographics
+1158,Population per square mile in USA in 2010,87.0,3.0,us demographics
+1159,Total number of housing units in USA as of 2016,135700000.0,3.0,us demographics
+1160,Median rent in USA in 2016 in USD,949.0,3.0,us demographics
+1161,Total accommodation and food sales in USA in 2012 in USD,708000000000.0,4.0,us economy
+1162,Total health care and social assistance sales in USA in 2012 in USD,2040440000000.0,4.0,us economy
+1163,Total retail sales in USA in 2012 in USD,4219820000000.0,4.0,us economy
+1164,Total payroll in USA in 2015 in USD,6250000000000.0,4.0,us economy
+1165,Number of chief executives in USA in 2016,106600000.0,3.0,us occupations
+1166,Number of computer and information research scientists in USA in 2016,16400.0,3.0,us occupations
+1167,Number of aerospace engineers in USA in 2016,115000.0,3.0,us occupations
+1168,Number of economists in USA in 2016,21700.0,3.0,us occupations
+1169,Number of clergy in USA in 2016,348000.0,3.0,us occupations
+1170,Number of lawyers in USA in 2016,891000.0,3.0,us occupations
+1171,Number of veterinarians in USA in 2016,65800.0,3.0,us occupations
+1172,Number of registered nurses in USA in 2016,2317000.0,3.0,us occupations
+1173,Number of religious organizations in USA in 2015,183862.0,4.0,us companies
+1174,Number of breweries in USA in 2015,2296.0,4.0,us companies
+1175,Number of finance and insurance companies in USA in 2015,237408.0,4.0,us companies
+1176,Number of pharmaceutical manufacturing companies in USA in 2015,1775.0,4.0,us companies
+1177,Number of restaurants and eating places in USA in 2015,406045.0,4.0,us companies
+1178,Number of beauty salons in USA in 2015,64409.0,4.0,us companies
+1179,Number of Vietnam Era veterans living in USA in 2016,6672416.0,3.0,us veterans
+1180,Number of Korean War veterans living in USA in 2016,1641569.0,3.0,us veterans
+1181,Number of World War II veterans living in USA in 2016,768263.0,3.0,us veterans
+1182,Number of US veterans with a disability connected to their service in 2016,4000000.0,3.0,us veterans
+1183,Number of US veterans who voted in 2016 presidential election,14400000.0,3.0,us veterans
+1184,Volume of a sphere with radius 3 units to nearest cubic unit,113.0,3.0,geometrical volume
+1185,Volume of a sphere with radius 1 units to nearest cubic unit,4.0,3.0,geometrical volume
+1186,Volume of a sphere with radius 2 units to nearest cubic unit,34.0,4.0,geometrical volume
+1187,Volume of a sphere with radius 5 units to nearest cubic unit,524.0,4.0,geometrical volume
+1188,Volume of a sphere with radius 10 units to nearest cubic unit,4189.0,5.0,geometrical volume
+1189,Voume of a cylinder with radius 10 units and height 5 units to nearest cubic unit,1571.0,4.0,geometrical volume
+1190,Voume of a cylinder with radius 1 units and height 2 units to nearest cubic unit,6.0,4.0,geometrical volume
+1191,Voume of a cylinder with radius 2 units and height 2 units to nearest cubic unit,25.0,3.0,geometrical volume
+1192,Voume of a cylinder with radius 5 units and height 2 units to nearest cubic unit,157.0,4.0,geometrical volume
+1193,Voume of a cylinder with radius 10 units and height 2 units to nearest cubic unit,628.0,4.0,geometrical volume
+1194,Voume of a cylinder with radius 4 units and height 1 units to nearest cubic unit,50.0,4.0,geometrical volume
+1195,Voume of a cylinder with radius 5 units and height 5 units to nearest cubic unit,393.0,4.0,geometrical volume
+1196,Voume of a cylinder with radius 2 units and height 1 units to nearest cubic unit,13.0,4.0,geometrical volume
+1197,Voume of a cylinder with radius 1 units and height 5 units to nearest cubic unit,16.0,4.0,geometrical volume
+1198,Voume of a cylinder with radius 10 units and height 10 units to nearest cubic unit,3142.0,4.0,geometrical volume
+1199,Surface area of a cylinder with radius 1 units and height 5 units to nearest cubic unit,38.0,3.0,geometrical area
+1200,Surface area of a cylinder with radius 2 units and height 10 units to nearest cubic unit,151.0,2.0,geometrical area
+1201,Surface area of a cylinder with radius 1 units and height 2 units to nearest cubic unit,19.0,3.0,geometrical area
+1202,Surface area of a cylinder with radius 5 units and height 1 units to nearest cubic unit,188.0,3.0,geometrical area
+1203,Surface area of a cylinder with radius 2 units and height 10 units to nearest cubic unit,151.0,3.0,geometrical area
+1204,Surface area of a cylinder with radius 10 units and height 3 units to nearest cubic unit,817.0,3.0,geometrical area
+1205,Surface area of a cylinder with radius 5 units and height 20 units to nearest cubic unit,785.0,4.0,geometrical area
+1206,Surface area of a cylinder with radius 4 units and height 4 units to nearest cubic unit,201.0,4.0,geometrical area
+1207,The cube root of 27,3.0,1.0,math
+1208,The cube root of 8,2.0,2.0,math
+1209,The cube root of 1000,10.0,2.0,math
+1210,The cube root of 64,4.0,2.0,math
+1211,The cube root of 125,5.0,3.0,math
+1212,The cube root of 216,6.0,3.0,math
+1213,The cube root of 343,7.0,3.0,math
+1214,The cube root of 512,8.0,4.0,math
+1215,The cube root of 729,9.0,4.0,math
+1216,The cube root of 1331,11.0,4.0,math
+1217,The cube root of 8000,20.0,4.0,math

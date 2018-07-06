@@ -1,0 +1,23 @@
+language: python
+
+python:
+  # We don't actually use the Travis Python, but this keeps it organized.
+  - "3.5"
+
+before_install:
+  - source scripts/travis/conda-install.sh
+  # The next couple lines fix a crash with multiprocessing on Travis and are not specific to using Miniconda
+  - sudo rm -rf /dev/shm
+  - sudo ln -s /run/shm /dev/shm
+  - conda info -a
+
+install:
+  - conda update conda
+  - travis_wait 30 conda env create -f environment.yml -q
+  - source activate psj
+  - export PYTHONPATH=`pwd`
+  - export JOBLIB_START_METHOD="forkserver"
+  - echo "Activated psj"
+
+script:
+  - python `which nosetests` -vs
