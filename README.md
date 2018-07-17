@@ -2,6 +2,12 @@
 
 [![Build Status](https://travis-ci.com/oughtinc/psj.svg?branch=master)](https://travis-ci.com/oughtinc/psj)
 
+## Tech report
+
+[Predicting Human Deliberative Judgments with Machine Learning](https://ought.org/papers/predicting-judgments-tr2018.pdf)<br/>
+Evans O., Stuhlmüller A., Cundy C., Carey R., Kenton, Z., McGrath T., Schreiber A. (2018)<br/>
+*FHI Technical Report*
+
 ## Motivation
 
 Imagine you read this statement on a blog:
